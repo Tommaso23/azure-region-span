@@ -1,3 +1,3 @@
 location = "australiasoutheast"
-size     = "Standard_D4als_v6"
+size     = "Standard_D4als_v5"
 index    = 37
