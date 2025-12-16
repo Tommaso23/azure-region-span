@@ -9,9 +9,12 @@ on:
         type: choice
         options:
           - australiaeast
+          - australiasoutheast
+          - austriaeast
           - belgiumcentral
           - brazilsouth
           - canadacentral
+          - canadaeast
           - centralindia
           - centralus
           - chilecentral
@@ -26,9 +29,11 @@ on:
           - japaneast
           - japanwest
           - koreacentral
+          - koreasouth
           - malaysiawest
           - mexicocentral
           - newzealandnorth
+          - northcentralus
           - northeurope
           - norwayeast
           - polandcentral
@@ -36,12 +41,17 @@ on:
           - southafricanorth
           - southcentralus
           - southeastasia
+          - southindia
           - spaincentral
           - swedencentral
           - switzerlandnorth
           - uaenorth
           - uksouth
+          - ukwest
+          - westcentralus
           - westeurope
+          - westindia
+          - westus
           - westus2
           - westus3
       destination:
@@ -50,9 +60,12 @@ on:
           type: choice
           options:
             - australiaeast
+            - australiasoutheast
+            - austriaeast
             - belgiumcentral
             - brazilsouth
             - canadacentral
+            - canadaeast
             - centralindia
             - centralus
             - chilecentral
@@ -67,9 +80,11 @@ on:
             - japaneast
             - japanwest
             - koreacentral
+            - koreasouth
             - malaysiawest
             - mexicocentral
             - newzealandnorth
+            - northcentralus
             - northeurope
             - norwayeast
             - polandcentral
@@ -77,12 +92,17 @@ on:
             - southafricanorth
             - southcentralus
             - southeastasia
+            - southindia
             - spaincentral
             - swedencentral
             - switzerlandnorth
             - uaenorth
             - uksouth
+            - ukwest
+            - westcentralus
             - westeurope
+            - westindia
+            - westus
             - westus2
             - westus3
 
