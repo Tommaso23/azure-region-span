@@ -178,5 +178,55 @@
     "displayName": "West US 3",
     "name": "westus3",
     "size": "Standard_D4ahs_v4"
+  },
+  {
+    "displayName": "Austria East",
+    "name": "austriaeast",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "Australia Southeast",
+    "name": "australiasoutheast",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "Canada East",
+    "name": "canadaeast",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "Korea South",
+    "name": "koreasouth",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "South India",
+    "name": "southindia",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "North Central US",
+    "name": "northcentralus",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "West Central US",
+    "name": "westcentralus",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "UK West",
+    "name": "ukwest",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "West US",
+    "name": "westus",
+    "size": "Standard_D4als_v6"
+  },
+  {
+    "displayName": "West India",
+    "name": "westindia",
+    "size": "Standard_D4als_v6"
   }
 ]
